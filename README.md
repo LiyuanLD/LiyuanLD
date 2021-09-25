@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiyuanLD
-- 👀 I’m interested in FrontEnd softwre development!
+- 👀 I’m interested in FrontEnd softwre development, but I am also working on being a full-stack software engineer!
 - 🌱 I’m currently pursuing my Master Degree in UCSD.
 - 💞️ I’m looking to 2022 Summer Intnernship on software engineer.
 - 📫 How to reach me: 
