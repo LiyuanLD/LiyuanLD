@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LiyuanLD
+- 👋 Hi, I’m @LiyuanL
 
 <!---
 LiyuanLD/LiyuanLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
